@@ -1,20 +1,20 @@
-- title: "illustration"
+- title: "Paradox lásky"
   href: "/illustration/"
 
-- title: "covers"
+- title: "Grafika & malba"
   href: "/covers/"
   
-- title: "documentation"
+- title: "Kov"
   subcategories:
-    - subtitle: "installation"
+    - subtitle: "Nerez"
       subhref: "/documentation/installation/"
-    - subtitle: "sidebar"
+    - subtitle: "Stříbro"
       subhref: "/documentation/sidebar/"
-    - subtitle: "layouts"
+    - subtitle: "Mosaz"
       subhref: "/documentation/layouts/"
-    - subtitle: "navigation"
+    - subtitle: "Kované"
       subhref: "/documentation/navigation/"
-    - subtitle: "social-icons"
+    - subtitle: "Cínované"
       subhref: "/documentation/social-icons/"
     - subtitle: "header-image"
       subhref: "/documentation/header-image/"
@@ -25,11 +25,11 @@
     - subtitle: "sass"
       subhref: "/documentation/sass/"
 
-- title: "blog"
+- title: "Foto ateliér"
   href: "/blog/"
 
-- title: "about"
+- title: "O mně"
   href: "/about/"
   
-- title: "contact"
+- title: "Kontakt"
   href: "/contact/"
