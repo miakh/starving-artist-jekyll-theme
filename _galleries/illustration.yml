@@ -1,7 +1,6 @@
 ---
 name: "illustration"
 arts:
-# Column 1
 - image: "images/galleries/illustration/IMG_2135.jpg"
   order: "1"
   title: "Avenue in Schloss Kammer Park"
@@ -14,14 +13,13 @@ arts:
   artist: "Gustav Klimt"
   description: "description"
 
-- image: "images/galleries/illustration/IMG_28872906.jpg"
+  - image: "images/galleries/illustration/IMG_2887.jpg"
   order: "3"
   title: "title"
   artist: "Gustav Klimt"
   description: "description"
 
-# Column 2
-- image: "images/galleries/illustration/IMG_2920.jpg"
+- image: "images/galleries/illustration/IMG_2906.jpg"
   order: "4"
   title: "Baby"
   artist: "Gustav Klimt"
@@ -39,7 +37,6 @@ arts:
   artist: "Gustav Klimt"
   description: "description"
  
-# Column 3
 - image: "images/galleries/illustration/IMG_2937.jpg"
   order: "7"
   title: "Birch Trees"
@@ -58,7 +55,6 @@ arts:
   artist: "Gustav Klimt"
   description: "description"
 
-# Column 4
 - image: "images/galleries/illustration/IMG_3265.jpg"
   order: "10"
   title: "title"
