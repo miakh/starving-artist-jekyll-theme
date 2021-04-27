@@ -5,7 +5,7 @@ arts:
   order: "1"
   title: "Avenue in Schloss Kammer Park"
   artist: "Gustav Klimt"
-  description: 
+  description: "description"
   
 - image: "images/galleries/illustration/IMG_2523.jpg"
   order: "2"
@@ -13,7 +13,7 @@ arts:
   artist: "Gustav Klimt"
   description: "description"
 
-  - image: "images/galleries/illustration/IMG_2887.jpg"
+- image: "images/galleries/illustration/IMG_2887.jpg"
   order: "3"
   title: "title"
   artist: "Gustav Klimt"
