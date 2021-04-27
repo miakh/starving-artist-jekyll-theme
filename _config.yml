@@ -7,8 +7,8 @@ keywords: jekyll, jekyll theme, portfolio theme, artist theme
 description: Witty description here.
 
 # Only use this if you are serving your site via Github Pages
-github:
-  url: "https://chrisanthropic.github.io/starving-artist-jekyll-theme"
+# github:
+#   url: "https://chrisanthropic.github.io/starving-artist-jekyll-theme"
 
 header: images/logo.png
 
