@@ -59,12 +59,21 @@ ul > .header-nav > a:visited {
 }
 
 .biopic {
-    -webkit-border-radius: 200px;
-    -moz-border-radius: 200px;
-    -ms-border-radius: 200px;
-    -o-border-radius: 200px;
-    border-radius: 200px;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    position: relative;
+    width: 250px;
+    height: 250px;
+    overflow: hidden;
+    border-radius: 50%;
     padding-left: 1em;
+}
+
+.biopic img{
+    width: 100%;
+    height: auto;
 }
 
 .bio {

@@ -1,0 +1,23 @@
+---
+name: "adel"
+arts:
+- image: "images/galleries/adel/DSC_0309.jpg"
+  order: "1"
+- image: "images/galleries/adel/DSC_0311.jpg"
+  order: "2"
+- image: "images/galleries/adel/DSC_0318.jpg"
+  order: "3"
+- image: "images/galleries/adel/DSC_0353.jpg"
+  order: "4"
+- image: "images/galleries/adel/DSC_0354.jpg"
+  order: "5"
+- image: "images/galleries/adel/DSC_0361.jpg"
+  order: "6"
+- image: "images/galleries/adel/DSC_0338.jpg"
+  order: "7"
+- image: "images/galleries/adel/DSC_0344.jpg"
+  order: "8"
+- image: "images/galleries/adel/DSC_0367.jpg"
+  order: "9"
+
+---
